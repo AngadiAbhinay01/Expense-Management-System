@@ -45,11 +45,11 @@ Track, analyze, and visualize your expenses with ease.
 
 ##  Tech Stack
 
-- ** Python 3.10+** – Core programming language for backend and data processing  
-- ** Streamlit** – Interactive frontend dashboard for user-friendly interface  
-- ** FastAPI** – High-performance backend API server  
-- ** Pandas & NumPy** – Data manipulation and numerical computing  
-- ** Matplotlib, Seaborn, Plotly** – Data visualization and analytics
+- **Python 3.10+** – Core programming language for backend and data processing  
+- **Streamlit** – Interactive frontend dashboard for user-friendly interface  
+- **FastAPI** – High-performance backend API server  
+- **Pandas & NumPy** – Data manipulation and numerical computing  
+- **Matplotlib, Seaborn, Plotly** – Data visualization and analytics
 
 ## 🙌 Author
 
@@ -58,6 +58,7 @@ Track, analyze, and visualize your expenses with ease.
 📧 Contact: [angadiabhinay2001@gmail.com](mailto:angadiabhinay2001@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/abhinay-angadi-541004159](https://www.linkedin.com/in/abhinay-angadi-541004159/)  
 💻 LeetCode: [leetcode.com/angadiabhinay2001](https://leetcode.com/angadiabhinay2001/)
+
 
 
 
